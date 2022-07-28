@@ -38,6 +38,9 @@ public class DashboardView extends VerticalLayout {
     }
 
     /*
+    ... Vaadin Charts is a Commercial Component Set, there is window remainder on runtime in the browser
+    telling that commercial license or trial is required ...
+
     private Chart getCompaniesChart() {
         Chart chart = new Chart(ChartType.PIE);
 
