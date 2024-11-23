@@ -1,7 +1,5 @@
-package com.vaadin.tutorial.crm.backend;
+package com.vaadin.tutorial.crm;
 
 public class EmptyClass1 {
-
     private String thereIsNothingInHere;
 }
-// generic worthless comment
